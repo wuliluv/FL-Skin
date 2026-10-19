@@ -1,7 +1,7 @@
 # FLSkin · 给 FL Studio 加「自定义背景 + 窗口透明度」
 
 > 实测环境：FL Studio 2026 (25.2) / Windows 11 22621 / .NET 9
-> 版本：1.12.0 · 作者：wuli · 许可：MIT
+> 版本：1.12.0
 
 FL Studio 是闭源软件，本体没有背景图功能，也不能调窗口透明度。FLSkin 不改 FL 的任何文件、不注入 DLL，
 而是用 Windows 自带的窗口合成能力从外部实现这两件事：
@@ -64,7 +64,7 @@ FL Studio 是闭源软件，本体没有背景图功能，也不能调窗口透�
 | --- | --- | --- |
 | ![正常](docs/mode-normal.png) | ![玻璃](docs/mode-glass.png) | ![亚克力](docs/mode-acrylic.png) |
 
-## 热键
+## 热键(我不知道有没有用，没试过)
 
 | 热键 | 作用 |
 | --- | --- |
